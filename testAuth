@@ -1,0 +1,7 @@
+https://api.instagram.com/oauth/authorize
+  ?app_id=2773841042634376
+  &redirect_uri=https%3A%2F%2Flocalhost%3A5000%2Fauth%2Finstagram
+  &scope=user_profile,user_media
+  &response_type=code
+
+code=AQBmWKSRcu2wFwM7IyEXV_hLLfT9ITfjlPR7Hcz242zieLvkkmvKtcvFq5aol0nzO4LBFm5d9JxWXK55nGI5Qfd4zyFhoGgid2l0sGkGACGa5P_AAqyP5Osqf07Y5w4cQ8Mvqp0WQMgz9KnRu_sibEjhVrX3JAYjE5a3boPBuCoOE5YJ17hXTgubh6vsn3p7Gir23OJvp7YgLH_fYBQ3RUJfPUipe0Y_-7pJyzvZRDTIXA#_

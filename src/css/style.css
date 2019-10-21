@@ -1,0 +1,21 @@
+.navbar {
+  width: 100%;
+  background: none !important; }
+  @media (max-width: 34em) {
+    .navbar {
+      background: black !important; } }
+  .navbar .navbar-toggler {
+    cursor: pointer;
+    outline: 0; }
+  .navbar .nav-link {
+    text-transform: uppercase;
+    font-weight: bold; }
+  .navbar .nav-item {
+    padding: 0 1rem; }
+    @media (max-width: 34em) {
+      .navbar .nav-item {
+        padding: 0; } }
+    @media (max-width: 34em) {
+      .navbar .nav-item .nav-link {
+        font-weight: normal;
+        color: #fff !important; } }
