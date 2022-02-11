@@ -14,7 +14,7 @@
     "express-handlebars": "^3.1.0",
     "jquery": "^3.4.1",
     "mongoose": "^5.7.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "passport": "^0.4.0",
     "passport-instagram": "^1.0.0",
     "popper": "^1.0.1",
